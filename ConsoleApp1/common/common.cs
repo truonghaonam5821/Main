@@ -137,5 +137,6 @@ namespace ConsoleApp1.common
             }
         }
 
+        public static
     }
 }
